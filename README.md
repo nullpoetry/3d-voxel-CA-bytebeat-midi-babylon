@@ -1,10 +1,10 @@
 # 3d-voxel-CA-bytebeat-midi-babylon
-3D cellular automaton (CA) built with Babylon.js and React, rendering a 16x16x16 grid of platonic polygons (tetrahedron to icosahedron) with 5-bit states (0-31). Features a refined recursive Game of Life rule, bytebeat sonification, and MIDI control (Monome Arc, Launchpad Pro), 
+3D cellular automaton (CA) built with Babylon.js and React, rendering a 16x16x16 grid with 5-bit states (0-31). Features a refined recursive Game of Life rule, bytebeat sonification, and MIDI control (Monome Arc, Launchpad Pro), 
 
 
 # 3D Voxel CA with Bytebeat, MIDI, and Platonic Polygons (React)
 
-A 3D cellular automaton (CA) built with Babylon.js and React, rendering a 16x16x16 grid of platonic polygons (tetrahedron to icosahedron) with 5-bit states (0-31). Features a refined recursive Game of Life rule, bytebeat sonification, and MIDI control (Monome Arc, Launchpad Pro), optimized for iPad/Pixel 9 Fold. A six-note pentatonic blues scale (C4, Eb4, F4, F#4, G4, Bb4) catalyzes CA evolution and audio, with a vibrant six-color palette and AES-encrypted steganography. Hosted on Replit for instant access. Part of a Monome Maiden successor vision.
+A 3D cellular automaton (CA) built with Babylon.js and React, rendering a 16x16x16 grid of platonic polygons (tetrahedron to icosahedron) with 5-bit states (0-31). Features a refined new Game of Life rule, bytebeat sonification, and MIDI control (Monome Arc, Launchpad Pro), optimized for iPad/Pixel 9 Fold. A six-note pentatonic blues scale (C4, Eb4, F4, F#4, G4, Bb4) catalyzes CA evolution and audio, with a vibrant six-color palette and AES-encrypted steganography. Hosted on Replit for instant access. Part of a Monome Maiden successor vision.
 
 ## Features
 - **React UI**: Dynamic controls for pause, reset, randomize, CA speed, and bytebeat.
@@ -49,4 +49,4 @@ Star, fork, or PR! Suggest MIDI mappings, color schemes, or security widgets.
 MIT
 
 ---
-Created May 1, 2025, by [Your Name]. Inspired by Monome, bytebeat, and cellular security.
+Created May 1, 2025, by J.Mosij. Inspired by Monome, bytebeat, and cellular security.
